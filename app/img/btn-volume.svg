@@ -1,0 +1,17 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g filter="url(#filter0_i)">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M3 6V10H2V6H3ZM5 5.82843V10.1716L5.41421 10.5858L7 12.1716V3.82843L5.41421 5.41422L5 5.82843ZM3 12H4L7.29289 15.2929C7.92286 15.9229 9 15.4767 9 14.5858V1.41422C9 0.523314 7.92286 0.077145 7.29289 0.70711L4 4H3H1C0.447715 4 0 4.44772 0 5V11C0 11.5523 0.447715 12 1 12H3ZM13.624 2.15423C15.0036 3.70001 15.8606 5.92198 15.8606 8.37349C15.8606 10.825 15.0036 13.047 13.624 14.5928C13.4547 14.7825 13.1672 14.7968 12.9686 14.6379L12.5618 14.3125C12.3237 14.122 12.3112 13.7651 12.5128 13.5364C13.6213 12.2788 14.3288 10.4401 14.3288 8.37349C14.3288 6.30691 13.6213 4.46816 12.5128 3.2106C12.3112 2.98184 12.3237 2.62497 12.5618 2.43447L12.9686 2.10905C13.1672 1.9502 13.4547 1.96452 13.624 2.15423ZM11.2435 4.05689C12.2066 5.16811 12.7971 6.697 12.7971 8.37348C12.7971 10.05 12.2066 11.5789 11.2435 12.6901C11.0774 12.8817 10.7903 12.8952 10.5923 12.7368L10.1913 12.416C9.95035 12.2233 9.9415 11.8608 10.1395 11.6242C10.8322 10.7961 11.2653 9.65045 11.2653 8.37348C11.2653 7.09651 10.8322 5.95082 10.1395 5.12281C9.9415 4.88618 9.95035 4.52368 10.1913 4.33094L10.5923 4.01015C10.7903 3.85172 11.0774 3.86523 11.2435 4.05689Z" fill="#1FD32E"/>
+    </g>
+    <defs>
+        <filter id="filter0_i" x="0" y="0.412212" width="15.8606" height="16.1756" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+            <feOffset dy="1"/>
+            <feGaussianBlur stdDeviation="1"/>
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+            <feBlend mode="normal" in2="shape" result="effect1_innerShadow"/>
+        </filter>
+    </defs>
+</svg>
